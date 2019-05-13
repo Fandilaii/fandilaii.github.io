@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: fandi-l-a72025145
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
@@ -96,7 +96,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+# show-author: true
 
 # do you want some animations?
 animation: true
